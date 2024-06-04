@@ -1,0 +1,5 @@
+﻿# python -m venv venv && venv\Scripts\activate && pip install --upgrade pip && pip install -r requirements.txt
+
+Django==5.0.6
+django-extensions
+django-allauth
